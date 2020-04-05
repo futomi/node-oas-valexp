@@ -399,7 +399,7 @@ Property               | Type    | Required | Description
 ---------------------------------------
 ## <a id="Release-Note">Release Note</a>
 
-* v0.0.1 (2020-04-05)
+* v0.0.2 (2020-04-05)
   * First public release
 
 ---------------------------------------
