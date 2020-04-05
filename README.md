@@ -265,7 +265,7 @@ The code above will output the result as follows:
 - messsage  : The `age` must be less than or equal to 120.
 ```
 
-The `valExpCode` and the corresponding message are pre-defined in this module. See the `lib/errors/en.json` for details.
+The `valExpCode` and the corresponding message are pre-defined in this module. See the [`lib/errors/en.json`](lib/errors/en.json) for details.
 
 For now, this module also supports Japanese error message. If you want to change to Japanese, set the environment variable `process.env.NODE_OAS_VALEXP_LANG` to `"ja"` before loading this module calling the `require()`:
 
