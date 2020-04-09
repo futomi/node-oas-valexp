@@ -1,6 +1,6 @@
 {
   "name": "node-oas-valexp",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The node-oas-valexp is a value validator using OAS (OpenAPI Specification) Parameter object. The design is inspired by the RegExp object.",
   "main": "./lib/valexp.js",
   "files": [
