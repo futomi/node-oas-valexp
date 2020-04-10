@@ -1,6 +1,6 @@
 {
   "name": "node-oas-valexp",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "The node-oas-valexp is a value validator using OAS (OpenAPI Specification) Parameter object. The design is inspired by the RegExp object.",
   "main": "./lib/valexp.js",
   "files": [
@@ -24,7 +24,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/futomi/node-swagger-schema.git"
+    "url": "https://github.com/futomi/node-oas-valexp.git"
   },
   "readmeFilename": "README.md",
   "dependencies": {}

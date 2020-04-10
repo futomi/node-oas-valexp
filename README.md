@@ -399,6 +399,8 @@ Property               | Type    | Required | Description
 ---------------------------------------
 ## <a id="Release-Note">Release Note</a>
 
+* v0.0.4 (2020-04-10)
+  * Fixed the repository url in the `package.json`
 * v0.0.3 (2020-04-09)
   * Fixed a bug that the value `undefined` was determined to be invalid even though the `required` in the Parameter Object is set to `false` or not specified
 * v0.0.2 (2020-04-05)
